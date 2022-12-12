@@ -1,0 +1,5 @@
+streamlit==1.15.2
+pandas==1.4.2
+numpy==1.17
+sklearn==0.0
+category-encoders==2.5.0
